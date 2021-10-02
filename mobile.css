@@ -102,6 +102,7 @@
   border-radius: 12px;
   border: 1px solid rgb(46, 69, 131);
   box-shadow: 2px 10px 25px hsl(232.9, 9.5%, 64.9%);
+  cursor: pointer;
 }
 
 .cancel {
@@ -112,4 +113,5 @@
   margin-top: 18px;
   font-size: 16px;
   color: hsl(224, 23%, 55%);
+  cursor: pointer;
 }
